@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yousuf/cs1010_template",
+  "command": "/usr/local/bin/clang++   -I/home/yousuf/cs1010_template/include    -g -Wall -Wextra -Wpedantic -Wdocumentation -o CMakeFiles/prog1.dir/prog1.cpp.o -c /home/yousuf/cs1010_template/prog1.cpp",
+  "file": "/home/yousuf/cs1010_template/prog1.cpp"
+}
+]
