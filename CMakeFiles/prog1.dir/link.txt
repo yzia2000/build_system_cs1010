@@ -1,1 +1,0 @@
-/usr/local/bin/clang++    -rdynamic CMakeFiles/prog1.dir/prog1.cpp.o  -o prog1 -lm 

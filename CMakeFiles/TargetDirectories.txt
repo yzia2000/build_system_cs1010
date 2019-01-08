@@ -1,3 +1,0 @@
-/home/yousuf/cs1010_template/CMakeFiles/rebuild_cache.dir
-/home/yousuf/cs1010_template/CMakeFiles/prog1.dir
-/home/yousuf/cs1010_template/CMakeFiles/edit_cache.dir
